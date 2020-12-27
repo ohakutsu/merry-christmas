@@ -3,7 +3,7 @@
 Merry Christmas!
 This package displays Christmas ASCII art.
 
-## Useage
+## Usage
 
 ```bash
 $ npx @ohakutsu/merry-christmas
